@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- アプリケーション設定 -->
+    <string name="app_name">Photo OCR</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Vision APIのAPIキーを設定 -->
+    <!-- 例えば、APIキーが「abcdefg12345」の場合次のように指定します -->
+    <string name="vision_api_key">abcdefg12345</string>
+
+    <!-- 画面メッセージ -->
+    <string name="loading_message">画像を解析中です</string>
+    <string name="dialog_select_prompt">画像を選択してください</string>
+    <string name="dialog_select_camera">カメラ</string>
+    <string name="dialog_select_gallery">ギャラリー</string>
+
+    <!-- エラーメッセージ -->
+    <string name="call_api_error">Cloud Vision APIの呼び出しに失敗しました</string>
+    <string name="image_picker_error">イメージの読み込みに失敗しました</string>
+    <string name="text_detection_error">文字が含まれていません</string>
+
+</resources>
