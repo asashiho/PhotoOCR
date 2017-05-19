@@ -18,5 +18,6 @@ Google Cloud Vision APIの光学的文字認識（OCR）機能をつかって、
 ***
 ## マイナビ公式サイト
 > https://book.mynavi.jp/manatee/detail/id=72941
+>
 > https://book.mynavi.jp/manatee/detail/id=73000
 >
