@@ -326,7 +326,7 @@ public class MainActivity extends AppCompatActivity {
         if (ocrData != null) {
             message += ocrData.get(0).getDescription();
         } else {
-            message += R.string.text_detection_error;
+            message += getString(R.string.text_detection_error);
         }
 
         return message;
